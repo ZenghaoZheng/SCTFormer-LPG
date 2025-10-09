@@ -1,6 +1,15 @@
 # Spectral Compression Transformer with Line Pose Graph
 
-<a href="https://pytorch.org/get-started/locally/"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white"></a>
+<a href="https://pytorch.org/get-started/locally/"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white"></a> 
+
+## Publication
+
+🎉 **This work has been published in Pattern Recognition!**
+
+- **🔗DOI**: [https://doi.org/10.1016/j.patcog.2025.112507](https://doi.org/10.1016/j.patcog.2025.112507)
+- **📅 Free Access**: Until November 25, 2025, you can access the article using this personalized URL: [https://authors.elsevier.com/c/1luc377nKsBZx](https://authors.elsevier.com/c/1luc377nKsBZx)
+
+> **Welcome to read!**
 
 ## Abstract
 
